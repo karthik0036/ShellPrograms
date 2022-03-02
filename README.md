@@ -61,3 +61,9 @@ same type of data.<br/>
 -But in Shell script Array is a variable which contains multiple values may be of same type or different type since by default in shell script everything is treated as a string.<br/> 
 -An array is zero-based i.e. indexing start with 0.<br/>
 
+6. Dictionaries
+
+# Dictionary / associative arrays / hash map<br/>
+-very useful data structures<br/> 
+-Dictionary are key value map similar to
+HaspMap in Java or the one in python<br/>
